@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\bin\Debug\net7.0\PalabraMasLarga.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\bin\Debug\net7.0\PalabraMasLarga.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\bin\Debug\net7.0\PalabraMasLarga.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\bin\Debug\net7.0\PalabraMasLarga.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\bin\Debug\net7.0\PalabraMasLarga.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\refint\PalabraMasLarga.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\PalabraMasLarga.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\PalabraMasLarga\obj\Debug\net7.0\ref\PalabraMasLarga.dll
